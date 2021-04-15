@@ -1,14 +1,11 @@
 # noise-robust-EQA
 
-Robust-EQA
+Noise-robust-EQA
 ======
 
 Code for the paper
 
-[Robust-EQA: Robust Learning for Embodied Question Answering with Noisy Labels]()
-
-Haonan Luo, Guosheng Lin
-
+[Noise Robust Embodied Question Answering Using Hierarchical Joint Learning]()
 
 Setup
 -----
