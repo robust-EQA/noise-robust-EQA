@@ -1,7 +1,5 @@
 # Noise-robust-EQA
 
-======
-
 Code for the paper
 
 [Noise Robust Embodied Question Answering Using Hierarchical Joint Learning]()
