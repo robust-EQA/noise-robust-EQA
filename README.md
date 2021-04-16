@@ -1,6 +1,5 @@
-# noise-robust-EQA
+# Noise-robust-EQA
 
-Noise-robust-EQA
 ======
 
 Code for the paper
